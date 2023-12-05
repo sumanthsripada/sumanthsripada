@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumanthsripada, Currently pursuing My Masters in Big Data Analytics  
-- 📍  Based in Lille, France
-- 🏫 IESEG School of Management, Lille.
+- 👋 Hi, I’m @sumanthsripada, Currently working as a Data Engineer @Big4  
+- 📍  Based in Hyderabad, India
+- 🏫 MSc Big Data Analytics @IESEG School of Management, Lille,France.
 - ✔️ I’m looking for opportunities where I create high-impact data driven solutions for Businesses.
 
 
